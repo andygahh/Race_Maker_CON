@@ -20,3 +20,7 @@ Thanks for checking it out — this is my first major app development project. C
 
 **Developed by:** Andrew Rogers  
 📧 andrewrog93@gmail.com
+
+
+v0.011 10/16/2025
+-changed tracks instantiation process into a self contained LoadTracks() method. This method instantiates the track objects and assigns the values to a dictionary.
